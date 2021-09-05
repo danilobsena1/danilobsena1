@@ -3,6 +3,9 @@
 - 📖 Estou buscando o conhecimento em Analise de dados, Desenvolvimento web e mobile.
 - 🌱 Atualmente estou aprendendo sobre análise de dados com Python e desenvolvimento web.  
 
+<div> 
+  <a href="https://https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  ##
  
 <div>
