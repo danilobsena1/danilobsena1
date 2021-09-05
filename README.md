@@ -22,13 +22,13 @@
   
  <div style="display: inline_block"><br>
   <h3>Projetos</h3>
-  🏢 <a href="https://github.com/danilobsena1/HTML-e-CSS-na-pratica/tree/master/Site_Final">Site Final</a> |
-  👜 <a href="https://github.com/danilobsena1/ProjetoAnaBella"> Projeto Ana Bella</a> |
-  🐍 <a href="https://github.com/danilobsena1/snake-game">Snake Game</a> |
-  🍓 <a href="https://github.com/danilobsena1/projeto-hortifruti">Projeto HortFruti</a> |
-  🏍️ <a href="https://github.com/danilobsena1/registration-motorcycle">Cadastro de Motos</a> |
-  🍉 <a href="https://github.com/danilobsena1/Natural-Life">Cadastro de Produtos</a> |
-  🗒️ <a href="https://github.com/danilobsena1/Project-Flutter/tree/master/Project-lista-tarefas">Bloco de Notas.</a>
+  🏢 <a href="https://github.com/danilobsena1/HTML-e-CSS-na-pratica/tree/master/Site_Final" target="_blank">Site Final</a> |
+  👜 <a href="https://github.com/danilobsena1/ProjetoAnaBella" target="_blank"> Projeto Ana Bella</a> |
+  🐍 <a href="https://github.com/danilobsena1/snake-game" target="_blank">Snake Game</a> |
+  🍓 <a href="https://github.com/danilobsena1/projeto-hortifruti" target="_blank">Projeto HortFruti</a> |
+  🏍️ <a href="https://github.com/danilobsena1/registration-motorcycle" target="_blank">Cadastro de Motos</a> |
+  🍉 <a href="https://github.com/danilobsena1/Natural-Life" target="_blank">Cadastro de Produtos</a> |
+  🗒️ <a href="https://github.com/danilobsena1/Project-Flutter/tree/master/Project-lista-tarefas" target="_blank">Bloco de Notas.</a>
   
  ##
  
