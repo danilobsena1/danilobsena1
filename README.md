@@ -1,6 +1,6 @@
  ### 👋 Olá, meu nome é Danilo Barros
 
-- 📖 Estou buscando o conhecimento em Analise de dados, Desenvolvimento web e mobile.
+- 📖 Atualmente estou buscando o conhecimento em Analise de dados, Desenvolvimento web e mobile.
 - 🌱 Atualmente estou aprendendo sobre análise de dados com Python e desenvolvimento web.  
 
 <div> 
