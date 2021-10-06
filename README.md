@@ -1,10 +1,10 @@
  ### 👋 Olá, meu nome é Danilo Barros
 
-- 📖 Atualmente estou buscando o conhecimento em Analise de dados, Desenvolvimento web e mobile.
-- 🌱 Atualmente estou aprendendo sobre análise de dados com Python e desenvolvimento web.  
+- 📖 Obtendo conhecimento em Analise de dados com python, desenvolvimento web e mobile.  
 
 <div> 
-  <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://gitlab.com/danilobsena2" target="_blank"><img src="https://img.shields.io/badge/-gitlab-%23E4405F?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
  ##
  
@@ -15,14 +15,14 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
   
  <div style="display: inline_block"><br>
   <h3>Projetos</h3>
-  🏢 <a href="https://github.com/danilobsena1/HTML-e-CSS-na-pratica/tree/master/Site_Final" target="_blank">Site Final</a> |
+  🏢 <a href="https://github.com/danilobsena1/siteficticio" target="_blank">Site Final</a> |
   👜 <a href="https://github.com/danilobsena1/ProjetoAnaBella" target="_blank"> Projeto Ana Bella</a> |
   🐍 <a href="https://github.com/danilobsena1/snake-game" target="_blank">Snake Game</a> |
   🍓 <a href="https://github.com/danilobsena1/projeto-hortifruti" target="_blank">Projeto HortFruti</a> |
