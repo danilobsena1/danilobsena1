@@ -1,6 +1,8 @@
  ### 👋 Olá, meu nome é Danilo Barros
 
-- 📖 Obtendo conhecimento em Analise de dados com python, desenvolvimento web e mobile.  
+- 📖 Obtendo conhecimento em Analise de dados com python, desenvolvimento web e mobile.
+- Aqui você encontra os projetos que já desenvolvi e os que estão em desenvolvimento.
+- No GitLab tem os códigos dos cursos que estou aprendendo atualmente.
 
 <div> 
   <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,5 +34,6 @@
   
  ##
  
-  <h4>Trabalhando em novos projetos</h4>
+  <h4>Trabalhando em novos projetos: </h4>
+  Tela de cadastro utilizando python e Tkinter
  </div>
