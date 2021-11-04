@@ -1,6 +1,6 @@
  ### 👋 Olá, meu nome é Danilo Barros
 
-- 📖 Obtendo conhecimento em Analise de dados com python, desenvolvimento web e mobile.
+- 📖 Obtendo conhecimento em Java,desenvolvimento web e Analise de dados com python.
 - Aqui você encontra os projetos que já desenvolvi e os que estão em desenvolvimento.
 - No GitLab tem os códigos dos cursos que estou aprendendo atualmente.
 
@@ -35,5 +35,5 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
-  Tela de cadastro utilizando python e Tkinter
+  Game: Air Rescue 2021
  </div>
