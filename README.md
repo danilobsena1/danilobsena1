@@ -35,5 +35,5 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
-  Game: Air Rescue 2021
+  Estudo de caso: Implementação Java com Spring Boot e JPA
  </div>
