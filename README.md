@@ -2,11 +2,9 @@
 
 - 📖 Obtendo conhecimento em Java, desenvolvimento web e Analise de dados com python.
 - Aqui você encontra os projetos que já desenvolvi e os que estão em desenvolvimento.
-- No GitLab tem os códigos dos cursos que estou aprendendo atualmente.
 
 <div> 
   <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://gitlab.com/danilobsena2" target="_blank"><img src="https://img.shields.io/badge/-gitlab-%23E4405F?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
 
  ##
  
