@@ -2,7 +2,7 @@
 
 - 📖🐍 ☕ Estudando Analise de dados com python.
 - Java e Desenvolvimento web.
-- 👨‍💻 Aqui você encontra os projetos que já criei e os que estão em desenvolvimento.
+
 
 <div> 
   <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -22,8 +22,8 @@
 </div>
   
  <div style="display: inline_block"><br>
-  <h3>Projetos</h3>
-  🐍 <a href="https://github.com/danilobsena1/basico-python" target="_blank">Python Básico</a> |
+  <h3>Projetos Desenvolvidos</h3>
+  
   👜 <a href="https://github.com/danilobsena1/ProjetoAnaBella" target="_blank"> Projeto Ana Bella</a> |
      <a href="https://github.com/danilobsena1/air-rescue-2021" target="_blank">Air Rescue 2021</a> |
   🍓 <a href="https://github.com/danilobsena1/projeto-hortifruti" target="_blank">Projeto HortFruti</a> |
@@ -33,5 +33,6 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
+  🐍 <a href="https://github.com/danilobsena1/basico-python" target="_blank">Python Básico</a><br/>
   Estudo de caso: Implementação Java com Spring Boot e JPA
  </div>
