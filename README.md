@@ -1,6 +1,7 @@
  ### 👋Seja bem vindo!
 
-- 📖🐍 ☕ Estudando Analise de dados com python e Java.
+- 📖🐍 ☕ Estudando Analise de dados com python.
+- Java e Desenvolvimento web.
 - 👨‍💻 Aqui você encontra os projetos que já criei e os que estão em desenvolvimento.
 
 <div> 
