@@ -22,13 +22,12 @@
   
  <div style="display: inline_block"><br>
   <h3>Projetos</h3>
-  🏢 <a href="https://github.com/danilobsena1/siteficticio" target="_blank">Site Final</a> |
+  🐍 <a href="https://github.com/danilobsena1/basico-python" target="_blank">Python Básico</a> |
   👜 <a href="https://github.com/danilobsena1/ProjetoAnaBella" target="_blank"> Projeto Ana Bella</a> |
-  🐍 <a href="https://github.com/danilobsena1/snake-game" target="_blank">Snake Game</a> |
+     <a href="https://github.com/danilobsena1/air-rescue-2021" target="_blank">Air Rescue 2021</a> |
   🍓 <a href="https://github.com/danilobsena1/projeto-hortifruti" target="_blank">Projeto HortFruti</a> |
-  🏍️ <a href="https://github.com/danilobsena1/registration-motorcycle" target="_blank">Cadastro de Motos</a> |
+     <a href="https://github.com/danilobsena1/gameinfo" target="_blank">Game Info</a> |
   🍉 <a href="https://github.com/danilobsena1/Natural-Life" target="_blank">Cadastro de Produtos</a> |
-  🗒️ <a href="https://github.com/danilobsena1/Project-Flutter/tree/master/Project-lista-tarefas" target="_blank">Bloco de Notas.</a>
   
  ##
  
