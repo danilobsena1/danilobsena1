@@ -1,6 +1,7 @@
  ### 👋Seja bem vindo!
 
-- 📖🐍 ☕ Estudando Analise de dados com python.
+- 📖 Estudando:
+- Linguagem C
 - Java e Desenvolvimento web.
 
 
@@ -18,7 +19,8 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
 </div>
   
  <div style="display: inline_block"><br>
@@ -33,6 +35,7 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
+  <a href="https://github.com/danilobsena1/Introducao-C">Introdução a linguagem C</a><br/>
   🐍 <a href="https://github.com/danilobsena1/basico-python" target="_blank">Python Básico</a><br/>
   Estudo de caso: Implementação Java com Spring Boot e JPA
  </div>
