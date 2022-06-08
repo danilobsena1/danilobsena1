@@ -36,6 +36,6 @@
  
   <h4>Trabalhando em novos projetos: </h4>
   <a href="https://github.com/danilobsena1/Introducao-C">Introdução a linguagem C</a><br/>
-  🐍 <a href="https://github.com/danilobsena1/basico-python" target="_blank">Python Básico</a><br/>
+  <a href="">StartSe</a><br/>
   Estudo de caso: Implementação Java com Spring Boot e JPA
  </div>
