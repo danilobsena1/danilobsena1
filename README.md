@@ -1,8 +1,9 @@
  ### 👋Seja bem vindo!
 
-- 📖 Estudando:
+- 📖 profundando o conhecimento em:
 - Linguagem C
-- Java e Desenvolvimento web.
+- Java
+- Desenvolvimento web.
 
 
 <div> 
