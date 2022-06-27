@@ -1,6 +1,6 @@
  ### 👋Seja bem vindo!
 
-- 📖 profundando o conhecimento em:
+- 📖 Aprofundando o conhecimento em:
 - Linguagem C
 - Java
 - Desenvolvimento web.
