@@ -1,7 +1,6 @@
  ### 👋Seja bem vindo!
 
 - 📖 Aprofundando o conhecimento em:
-- Linguagem C
 - Java
 - Desenvolvimento web.
 
@@ -36,7 +35,8 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
-  <a href="https://github.com/danilobsena1/liguagem_C">Linguagem C</a><br/>
-  <a href="https://github.com/danilobsena1">StartSe</a><br/>
-  Estudo de caso: Implementação Java com Spring Boot e JPA
+  Java(Udemy)
+  Desenvolvimento Web Completo 2022(Udemy)
+  StartSe
+  Estudo de caso: Implementação Java com Spring Boot e JPA(Udemy)
  </div>
