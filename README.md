@@ -35,8 +35,8 @@
  ##
  
   <h4>Trabalhando em novos projetos: </h4>
-  Java(Udemy)
-  Desenvolvimento Web Completo 2022(Udemy)
-  StartSe
-  Estudo de caso: Implementação Java com Spring Boot e JPA(Udemy)
+  Java (Udemy)<br/>
+  Desenvolvimento Web Completo 2022 (Udemy) <br/>
+  StartSe <br/>
+  Estudo de caso: Implementação Java com Spring Boot e JPA (Udemy)
  </div>
